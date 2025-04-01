@@ -27,20 +27,22 @@ The **Power BI dashboard** visualizes product associations and highlights strate
 
 ![image alt](https://github.com/GeorgeWLZD/customer_churn_analysis/blob/4caaea90157cd79fa9201dd6deb460a91e8a58cc/img/viz.JPG)
 
-**Association Rules Table**
-- Strong product relationships have high Lift values (>2.0) and appear frequently in transactions (high Support).
-- Example: Customers who buy Root Vegetables are 3 times more likely to also purchase Herbs.
-- Opportunity: Bundle these items together in promotions.
+**Churn Rate Analysis**\
+- The overall churn rate is 20.45%, exceeding the company’s target of 12%.
+- 2,018 customers were lost, leading to significant revenue losses.
+- Opportunity: Immediate intervention is needed to improve retention strategies.
 
-**Scatter Plot** (Lift vs. Support)
-- High Lift, Low Support: Hidden opportunities! These product pairs aren't bought together often, but when they are, the association is strong.
-- Example: Wine and Cheese have a Lift of 4.2 but appear in only 2% of transactions.
-- Opportunity: Increase visibility by placing these items closer together in-store or recommending them online.
+**Customer Segmentation Insights**\
+- Age Group: Customers aged 51-60 exhibit the highest churn rate.
+- Credit Score: Customers with a credit score ≤ 400 are at significantly higher risk.
+- Gender: 56% of churned customers are female, compared to 44% male.
+- 64% of churned customers were inactive, aligning with disengagement patterns.
+- 35% of churned customers were still active, suggesting dissatisfaction or competitor influence.
+- Geographic Trends: Orlando and Miami have the highest churn rates, indicating possible service gaps or strong competitor presence.
 
-**Network Graph Analysis**
-- Some products act as key connectors, frequently appearing in multiple strong associations.
-- Example: Whipped/sour cream, yogurt and root vegetables appeared wuite frequently.
-- Opportunity: Position these “anchor products” in prime store locations or highlight them in digital marketing campaigns.
+**Product Performance & Red Flags**\
+- 70% of churned customers subscribed to Product 1, highlighting a potential issue.
+- Opportunity: Further investigation is required to assess product-market fit, pricing, or service quality.
 
 ## 4. Business Recommendation
 
