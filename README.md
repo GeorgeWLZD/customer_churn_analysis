@@ -25,7 +25,7 @@ Based on this dataset I built this **data model** to make the analysis:
 
 The **Power BI dashboard** visualizes product associations and highlights strategic opportunities:
 
-![image alt](https://github.com/GeorgeWLZD/market_basket_analysis/blob/3245c4a11cd008c2adbbffd1bd59fbf45a766809/img/viz.JPG)
+![image alt](https://github.com/GeorgeWLZD/customer_churn_analysis/blob/4caaea90157cd79fa9201dd6deb460a91e8a58cc/img/viz.JPG)
 
 **Association Rules Table**
 - Strong product relationships have high Lift values (>2.0) and appear frequently in transactions (high Support).
