@@ -18,6 +18,7 @@ To conduct this analysis, I used a dataset containing 9867 unique users. The dat
 ![image alt](https://github.com/GeorgeWLZD/customer_churn_analysis/blob/90506122d7c6938dd2f2349db9ce73ed2a24643a/img/data1.JPG)
 
 Based on this dataset I built this **data model** to make the analysis:
+
 ![image alt](https://github.com/GeorgeWLZD/customer_churn_analysis/blob/90506122d7c6938dd2f2349db9ce73ed2a24643a/img/data2.JPG)
 
 ## 3. Results
