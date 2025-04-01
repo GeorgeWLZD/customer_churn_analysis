@@ -46,18 +46,19 @@ The **Power BI dashboard** visualizes product associations and highlights strate
 
 ## 4. Business Recommendation
 
-Based on the insights from the analysis, here are actionable business strategies:
+Based on the findings, the following strategies are proposed to reduce churn:
 
-**Increase Revenue with Bundling & Discounts**
-- Promote high-lift product pairs with combo deals (e.g., Coffee + Pastries).
-- Implement "Frequently Bought Together" sections in e-commerce.
+**Investigate Product 1 Issues**
+- Conduct customer feedback surveys to identify pain points.
+- Perform a pricing and feature analysis to ensure competitiveness.
+- Enhance customer support for users of this product.
 
-**Optimize Store Layout & Digital UX**
-- Place strongly related products closer together in physical stores.
-- Use data-driven recommendations in e-commerce to enhance user experience.
+**Target High-Risk Customer Segments**
+- Deploy personalized retention campaigns for 51-60-year-olds and customers with low credit scores.
+- Offer loyalty incentives to reduce attrition within vulnerable segments.
 
-**Improve Targeted Marketing & Promotions**
-- High-lift, low-support products need awareness-building campaigns.
-- Personalize discounts based on past customer purchases.
+**Implement a Churn Prediction Model**
+- Use machine learning algorithms (e.g., Logistic Regression, Random Forest) to predict high-risk customers.
+- Enable proactive retention strategies, reaching out to flagged customers before they churn.
 
-By leveraging **market basket analysis**,8 FreshMart can drive revenue growth with minimal effort—simply by strategically placing and promoting products. This approach can further be enhanced with machine learning-based recommendation systems for real-time personalized offers. **The next step** is to implement automated product recommendations and use machine learning to refine cross-selling strategies.
+By leveraging Customer Churn Analysis, National Bank can make data-driven decisions to improve customer retention and sustain long-term business growth.
